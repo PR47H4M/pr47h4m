@@ -7,7 +7,7 @@
 ``` javascript
   const PRATHAM = {
     pronouns: "He" | "His",
-    bio: "An Open Source Contributor & Full Stack Web / App Developer.",
+    bio: "An Open Source Contributor & A Full Stack Web / App Developer.",
     languages: [C++, Javascript, Dart, PHP, Java, HTML, CSS],
     technologies: [Node JS],
     frameworks: [Flutter, ExpressJS, TailwindCSS, MaterializeCSS],
