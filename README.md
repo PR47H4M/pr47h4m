@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="left"><img src="https://raw.githubusercontent.com/Pr47h4m/Pr47h4m/main/wave.gif" width="30px">Hello There, I'm <a href="">Pratham Jaiswal.</a></h1>
 
 <!--
 **Pr47h4m/Pr47h4m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
