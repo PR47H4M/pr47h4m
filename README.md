@@ -4,6 +4,19 @@
 [![Linkedin: pr47h4m](https://img.shields.io/badge/-Pr47h4m-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pr47h4m/)](https://www.linkedin.com/in/pr47h4m/)
 [![GitHub pr47h4m](https://img.shields.io/github/followers/pr47h4m?label=follow&style=social)](https://github.com/pr47h4m)
 
+``` javascript
+  const PRATHAM = {
+    pronouns: "He" | "His",
+    bio: "An Open Source Contributor & Full Stack Web / App Developer.",
+    languages: [C++, Javascript, Dart, PHP, Java, HTML, CSS],
+    technologies: [Node JS],
+    frameworks: [Flutter, ExpressJS, TailwindCSS, MaterializeCSS],
+    databse: [Mongo DB, MySQL],
+  }
+```
+
+<em><b>I love connecting with different people around the world</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 <!--
 **Pr47h4m/Pr47h4m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
