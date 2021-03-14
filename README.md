@@ -1,4 +1,4 @@
-<h1 align="left"><img src="https://raw.githubusercontent.com/Pr47h4m/Pr47h4m/main/wave.gif" width="30px">Hello There, I'm <a href="">Pratham Jaiswal.</a></h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/Pr47h4m/Pr47h4m/main/wave.gif" width="30px">Hello There, I'm <a href="https://github.com/pr47h4m">Pratham Jaiswal.</a></h1>
 
 [![Twitter: pr47h4m](https://img.shields.io/twitter/follow/Pr47h4m?style=social)](https://twitter.com/pr47h4m)
 [![Linkedin: pr47h4m](https://img.shields.io/badge/-Pr47h4m-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pr47h4m/)](https://www.linkedin.com/in/pr47h4m/)
