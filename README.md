@@ -15,7 +15,7 @@
   }
 ```
 
-<summary>:zap: <b>Github Stats</b></summary>
+<h2>:zap: <b>Github Stats</b></h2>
 <br>
 <p align = "center">
     <img alt="Pr47h4m's Language" src="https://github-readme-streak-stats.herokuapp.com/?user=pr47h4m&theme=tokyonight" /><br>
