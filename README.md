@@ -20,7 +20,7 @@
 <p align = "center">
     <img alt="Pr47h4m's Language" src="https://github-readme-streak-stats.herokuapp.com/?user=pr47h4m&theme=tokyonight" /><br>
     <img src="https://github-readme-stats.vercel.app/api?username=pr47h4m&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=54ADF9&icon_color=54ADF9&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Pratham's Github Stats" />    
-    <img alt="Pr47h4m's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shree-hari&theme=tokyonight" />
+    <img alt="Pr47h4m's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr47h4m&theme=tokyonight" />
 </p>
 
 
