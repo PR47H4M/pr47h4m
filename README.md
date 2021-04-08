@@ -20,7 +20,7 @@
 <p align = "center">
     <img alt="Pr47h4m's Language" src="https://github-readme-streak-stats.herokuapp.com/?user=pr47h4m&theme=tokyonight" /><br>
      <img alt="Pr47h4m's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pr47h4m&show_icons=true&theme=tokyonight&line_height=40" /> 
-    <img alt="Pr47h4m's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr47h4m&theme=tokyonight" />
+<!--     <img alt="Pr47h4m's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr47h4m&theme=tokyonight" /> -->
 </p>
 
 
