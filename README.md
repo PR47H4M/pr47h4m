@@ -15,6 +15,9 @@
   }
 ```
 
+<em><b>I love connecting with different people around the world</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+
 <h2>:zap: <b>Github Stats</b></h2>
 <br>
 <p align = "center">
@@ -24,4 +27,3 @@
 </p>
 
 
-<em><b>I love connecting with different people around the world</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
