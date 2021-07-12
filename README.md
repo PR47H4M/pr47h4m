@@ -11,7 +11,7 @@
     languages: [C++, Javascript, Dart, PHP, Java, HTML, CSS],
     technologies: [Node JS],
     frameworks: [Flutter, ExpressJS, TailwindCSS, MaterializeCSS],
-    databse: [Mongo DB, MySQL],
+    database: [Mongo DB, MySQL],
   }
 ```
 
