@@ -8,10 +8,11 @@
   const PRATHAM = {
     pronouns: "He" | "His",
     bio: "An Open Source Contributor & A Full Stack Web / App Developer.",
-    languages: [C++, Javascript, Dart, PHP, Java, HTML, CSS],
+    languages: [C++, Javascript, Dart, Java, HTML, CSS],
     technologies: [Node JS],
-    frameworks: [Flutter, ExpressJS, TailwindCSS, MaterializeCSS],
+    frameworks: [Flutter, ReactJS, ExpressJS, Mongoose, TailwindCSS, MaterializeCSS],
     database: [Mongo DB, MySQL],
+    cloudPlatforms: [AWS, GCP]
   }
 ```
 
